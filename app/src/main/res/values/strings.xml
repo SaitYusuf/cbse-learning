@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CBSE Learning</string>
+    <string name="read">Read</string>
+    <string name="quiz">Quiz</string>
+    <string name="chemistry12th">12th Grade Chemistry</string>
+    <string name="request">Request a Subject</string>
+    <string name="physics12th">12th Grade Physics</string>
+    <string name="chemistry11th">11th Grade Chemistry</string>
+    <string name="physics11th">11th Grade Physics</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="more">More from this developer</string>
+    <string name="rate">Rate</string>
+    <string name="feedback">Feedback / Bugs</string>
+    <string name="support">Support the developer</string>
+    <string name="which_subject">Which subject do you want to be added next?</string>
+    <string name="submit">Submit</string>
+    <string name="about_the_app">The quiz activities for the first two chapters and all the reading activities of 12th Grade Chemistry are done. More questions and subjects will be added if the app gets more users</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

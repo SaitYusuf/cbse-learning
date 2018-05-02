@@ -1,0 +1,33 @@
+.caption{
+	font-style: italic;
+	color: grey;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.scroll{
+	overflow-x: scroll;
+}
+h3,h4,h5,b,strong,i{
+	color: #009eae;
+}
+h3{
+	font-size: 1.45em;
+	margin-bottom: 0.5em;
+	margin-top: 1.33em;
+}
+h4{
+	font-size: 1.25em;
+	margin-bottom: 0.5em;
+	margin-top: 1em;
+}
+h5{
+	font-size: 1.10em;
+	margin-bottom: 0.5em;
+	margin-top: 1em;
+}
