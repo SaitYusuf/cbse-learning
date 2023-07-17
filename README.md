@@ -1,3 +1,4 @@
+![app icon](readme-assets/icon.png)
 # CBSE Learning: Reading & Quiz
 
 A simple application that attempts to streamline the experience of studying for CBSE students.
@@ -9,3 +10,5 @@ The plan was to develop this for all the subjects within the CBSE syllabus but t
 Plus I lost interest in developing anything within the traditional schooling system. 
 
 You can access the apk here: [Download](app/release/app-release.apk)
+
+![sc1](readme-assets/sc1.png)![sc2](readme-assets/sc2.png)![sc3](readme-assets/sc3.png)![sc4](readme-assets/sc4.png)
