@@ -1,4 +1,3 @@
-![app icon](readme-assets/icon.png)
 # CBSE Learning: Reading & Quiz
 
 A simple application that attempts to streamline the experience of studying for CBSE students.
