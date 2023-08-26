@@ -9,4 +9,4 @@ The plan was to develop this for all subjects within the CBSE syllabus.
 
 However, I lost interest in developing anything within the traditional schooling system. 
 
-You can access the apk here: [Download](app/release/app-release.apk)
+You can access the apk [here](app/release/app-release.apk).
