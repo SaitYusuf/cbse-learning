@@ -5,8 +5,4 @@ A simple application that attempts to streamline the experience of studying for 
 - Quizzes after every section covering the important parts to increase retention.
 - Section scoring and which aggregates into chapter scoring based on quiz performance.
 
-The plan was to develop this for all subjects within the CBSE syllabus.
-
-However, I lost interest in developing anything within the traditional schooling system. 
-
 You can access the apk [here](app/release/app-release.apk).
